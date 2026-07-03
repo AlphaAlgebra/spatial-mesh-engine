@@ -1,3 +1,14 @@
+# --- SECTION 1: CORE SPATIAL MATHEMATICS ---
 numpy==1.26.4
+scipy==1.12.0
+
+# --- SECTION 2: HARDWARE BINDINGS ---
 pybind11==2.12.0
+
+# --- SECTION 3: INDUSTRIAL IoT TELEMETRY ---
+protobuf==4.25.3
+paho-mqtt==1.6.1
+httpx==0.27.0
+
+# --- SECTION 4: TESTING & VALIDATION ---
 pytest==8.1.1
